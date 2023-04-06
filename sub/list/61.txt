@@ -1,0 +1,26 @@
+  - {name: 🇨🇳 台湾=tg频道:@bpjzx2=2, server: edge-earth.themars.top, port: 50008, type: ss, cipher: chacha20-ietf-poly1305, password: e5fbb896-cf74-44f5-90ae-b3333e1d3ca0}
+  - {name: 🇨🇳 台湾=tg频道:@bpjzx2=3, server: edge-mars.themars.top, port: 50008, type: ss, cipher: chacha20-ietf-poly1305, password: e5fbb896-cf74-44f5-90ae-b3333e1d3ca0}
+  - {name: 🇨🇳 台湾=tg频道:@bpjzx2=4, server: piniatw01.abbblog.xyz, port: 37924, type: ss, cipher: aes-128-gcm, password: 6652a517-36da-4db4-9607-326c2db9aa70}
+  - {name: 🇨🇳 台湾=tg频道:@bpjzx2=5, server: piniatw01.abbblog.xyz, port: 37922, type: ss, cipher: aes-128-gcm, password: 6652a517-36da-4db4-9607-326c2db9aa70}
+  - {name: 🇸🇬 新加坡=tg频道:@bpjzx2=10, server: piniasg01.abbblog.xyz, port: 37908, type: ss, cipher: aes-128-gcm, password: 6652a517-36da-4db4-9607-326c2db9aa70}
+  - {name: 🇸🇬 新加坡=tg频道:@bpjzx2=11, server: piniasg01.abbblog.xyz, port: 37910, type: ss, cipher: aes-128-gcm, password: 6652a517-36da-4db4-9607-326c2db9aa70}
+  - {name: 🇸🇬 新加坡=tg频道:@bpjzx2=6, server: edge-mars.themars.top, port: 50004, type: ss, cipher: chacha20-ietf-poly1305, password: e5fbb896-cf74-44f5-90ae-b3333e1d3ca0}
+  - {name: 🇸🇬 新加坡=tg频道:@bpjzx2=7, server: piniasg01.abbblog.xyz, port: 37909, type: ss, cipher: aes-128-gcm, password: 6652a517-36da-4db4-9607-326c2db9aa70}
+  - {name: 🇸🇬 新加坡=tg频道:@bpjzx2=8, server: piniasg01.abbblog.xyz, port: 37906, type: ss, cipher: aes-128-gcm, password: 6652a517-36da-4db4-9607-326c2db9aa70}
+  - {name: 🇸🇬 新加坡=tg频道:@bpjzx2=9, server: edge-earth.themars.top, port: 50004, type: ss, cipher: chacha20-ietf-poly1305, password: e5fbb896-cf74-44f5-90ae-b3333e1d3ca0}
+  - {name: 🇯🇵 日本=tg频道:@bpjzx2=12, server: piniajp01.abbblog.xyz, port: 37913, type: ss, cipher: aes-128-gcm, password: 6652a517-36da-4db4-9607-326c2db9aa70}
+  - {name: 🇯🇵 日本=tg频道:@bpjzx2=13, server: piniajp01.abbblog.xyz, port: 37914, type: ss, cipher: aes-128-gcm, password: 6652a517-36da-4db4-9607-326c2db9aa70}
+  - {name: 🇯🇵 日本=tg频道:@bpjzx2=14, server: piniajp01.abbblog.xyz, port: 37911, type: ss, cipher: aes-128-gcm, password: 6652a517-36da-4db4-9607-326c2db9aa70}
+  - {name: 🇯🇵 日本=tg频道:@bpjzx2=15, server: piniajp01.abbblog.xyz, port: 37915, type: ss, cipher: aes-128-gcm, password: 6652a517-36da-4db4-9607-326c2db9aa70}
+  - {name: 🇯🇵 日本=tg频道:@bpjzx2=16, server: edge-earth.themars.top, port: 50001, type: ss, cipher: chacha20-ietf-poly1305, password: e5fbb896-cf74-44f5-90ae-b3333e1d3ca0}
+  - {name: 🇯🇵 日本=tg频道:@bpjzx2=17, server: piniajp01.abbblog.xyz, port: 37912, type: ss, cipher: aes-128-gcm, password: 6652a517-36da-4db4-9607-326c2db9aa70}
+  - {name: 🇯🇵 日本=tg频道:@bpjzx2=18, server: edge-earth.themars.top, port: 50002, type: ss, cipher: chacha20-ietf-poly1305, password: e5fbb896-cf74-44f5-90ae-b3333e1d3ca0}
+  - {name: 🇯🇵 日本=tg频道:@bpjzx2=19, server: edge-hncm.themars.top, port: 50001, type: ss, cipher: chacha20-ietf-poly1305, password: e5fbb896-cf74-44f5-90ae-b3333e1d3ca0}
+  - {name: 🇯🇵 日本=tg频道:@bpjzx2=20, server: edge-mars.themars.top, port: 50002, type: ss, cipher: chacha20-ietf-poly1305, password: e5fbb896-cf74-44f5-90ae-b3333e1d3ca0}
+  - {name: 🇯🇵 日本=tg频道:@bpjzx2=21, server: edge-hncm.themars.top, port: 50002, type: ss, cipher: chacha20-ietf-poly1305, password: e5fbb896-cf74-44f5-90ae-b3333e1d3ca0}
+  - {name: 🇦🇺 澳大利亚=tg频道:@bpjzx2=1, server: edge-mars.themars.top, port: 50011, type: ss, cipher: chacha20-ietf-poly1305, password: e5fbb896-cf74-44f5-90ae-b3333e1d3ca0}
+  - {name: 🇭🇰 香港=tg频道:@bpjzx2=22, server: edge-mars.themars.top, port: 50013, type: ss, cipher: chacha20-ietf-poly1305, password: e5fbb896-cf74-44f5-90ae-b3333e1d3ca0}
+  - {name: 🇭🇰 香港=tg频道:@bpjzx2=23, server: edge-earth.themars.top, port: 50013, type: ss, cipher: chacha20-ietf-poly1305, password: e5fbb896-cf74-44f5-90ae-b3333e1d3ca0}
+  - {name: 🇭🇰 香港=tg频道:@bpjzx2=24, server: edge-hncm.themars.top, port: 50014, type: ss, cipher: chacha20-ietf-poly1305, password: e5fbb896-cf74-44f5-90ae-b3333e1d3ca0}
+  - {name: 🇭🇰 香港=tg频道:@bpjzx2=25, server: edge-mars.themars.top, port: 50014, type: ss, cipher: chacha20-ietf-poly1305, password: e5fbb896-cf74-44f5-90ae-b3333e1d3ca0}
+  - {name: 🇭🇰 香港=tg频道:@bpjzx2=26, server: piniahk01.abbblog.xyz, port: 37901, type: ss, cipher: aes-128-gcm, password: 6652a517-36da-4db4-9607-326c2db9aa70}
